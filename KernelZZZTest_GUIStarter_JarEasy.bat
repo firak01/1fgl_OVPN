@@ -2,5 +2,5 @@ REM ALS AUSFÜHRBARE DATE MIT EINEM FESTGELEGTEN STARTPUNKT: java -jar OpenVPNZZ
 REM Beliebige Klasse mit einer Methode: public static void main(String[] args) {} starten. 
 REM Merke: Wenn die JAR - Datei nicht in dem Verzeichnis der Batch liegt, den Pfad vorneweg ergänzen.
 REM TEST IST HIER: JAZKernel\test\basic\zBasic\util\file\JarEasyZZZTestMain.java
-java -cp OpenVPNZZZ_V20200801.jar basic.zBasic.util.file.JarEasyZZZTestMain > c:\fglkernel\kernellog\JarEasyZZZTest_StarterLog.txt
+java -cp OpenVPNZZZ_V20201005.jar basic.zBasic.util.file.JarEasyZZZTestMain > c:\fglkernel\kernellog\JarEasyZZZTest_StarterLog.txt
 pause
