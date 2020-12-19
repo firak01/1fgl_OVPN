@@ -31,8 +31,10 @@
 .gitk
 .project
 *.7z
-*.zip
-*.jar
+
+# In diesem Verzeichnis wird der aktuelle JAR-Stand (zum Testen) gehalten. Darum nicht ignorieren.
+# *.zip
+# *.jar
 
 
 # But don´t Ignore publish modul relevant files
