@@ -2,6 +2,6 @@
 REM Beliebige Klasse mit einer Methode: public static void main(String[] args) {} starten. 
 REM Merke: Wenn die JAR - Datei nicht in dem Verzeichnis der Batch liegt, den Pfad vorneweg ergänzen.
 cd\
-cd C:\1fgl\client\JAZKernel
-java -cp OpenVPNZZZ_V20201005.jar use.openvpn.clientui.ClientMainUIZZZ -s 02 -d . -f ZKernelConfig_OVPNClient.ini > c:\fglkernel\kernellog\OpenVPNZZZ_ClientStarterLog.txt
+cd C:\1fgl\client\OVPN
+java -cp OpenVPNZZZ.jar use.openvpn.clientui.ClientMainUIZZZ -s 02 -d . -f ZKernelConfig_OVPNClient.ini > c:\fglkernel\kernellog\OpenVPNZZZ_ClientStarterLog.txt
 pause
