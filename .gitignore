@@ -4,7 +4,7 @@
 #*
 
 # Ignore all directories
-#*/
+*/
 
 # Don`t ignore directories, so we can recurse into them
 # NUR SINNVORLL WENN MAN EINEN FILTER AUF DATEIEN (z.B. Endungen) EINBAUT:  
